@@ -4,7 +4,7 @@
 
 <p align="center">
 <h3 align="center">Hiiii!! Welcome to my profile</h3>
-> ES/EN/IT
+  ES/EN/IT
 </p>
 
 # My name is Mina
