@@ -5,9 +5,6 @@
 <h3 align="center">Hiiii!! Welcome to my profile</h3>
 
 # My name is Mina
-- I'm a Nicaraguan Computer Science student!
+- I'm a Nicaraguan Systems Engineering student!
 - Languages: ES/EN/IT
-- My favorite song is world.execute(me); by Mili
-- ...That's it
-
-This is the place where you'll find my personal projects, I hope you find something interesting :D
+- I love any song made by Mili
